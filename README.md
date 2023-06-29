@@ -10,4 +10,4 @@
 ![Rating Final Submission of Belajar Membuat Aplikasi Android untuk Pemula!](/FinalSubmission-BMAAP-Rating.png "Rating")
 
 ### 📷 Preview Aplikasi
-![Preview Aplikasi Final Submission of Belajar Membuat Aplikasi Android untuk Pemula!](/PreviewAplikasi-BMAAP-Rating.png "Preview Aplikasi")
+![Preview Aplikasi Final Submission of Belajar Membuat Aplikasi Android untuk Pemula!](/PreviewAplikasi-BMAAP.png "Preview Aplikasi")
