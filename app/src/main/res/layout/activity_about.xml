@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    tools:context=".AboutActivity">
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/img_item_profile"
+        app:shapeAppearance="@style/roundImageView"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="15dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:src="@drawable/image_profile" />
+
+    <TextView
+        android:id="@+id/tv_profile_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="@string/profile_name"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="@+id/img_item_profile"
+        app:layout_constraintStart_toStartOf="@+id/img_item_profile"
+        app:layout_constraintTop_toBottomOf="@+id/img_item_profile" />
+
+    <TextView
+        android:id="@+id/tv_profile_email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="@string/profile_email"
+        android:textSize="15sp"
+        app:layout_constraintEnd_toEndOf="@+id/tv_profile_name"
+        app:layout_constraintStart_toStartOf="@+id/tv_profile_name"
+        app:layout_constraintTop_toBottomOf="@+id/tv_profile_name" />
+
+    <TextView
+        android:id="@+id/tv_profile_information"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:lineSpacingExtra="12sp"
+        android:text="@string/profile_information"
+        app:layout_constraintEnd_toEndOf="@+id/tv_profile_email"
+        app:layout_constraintStart_toStartOf="@+id/tv_profile_email"
+        app:layout_constraintTop_toBottomOf="@+id/action_contact_me" />
+
+    <Button
+        android:id="@+id/action_contact_me"
+        style="@style/Widget.Material3.Button.Icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="@string/contact_me"
+        android:textSize="14sp"
+        app:icon="@drawable/ic_phone"
+        app:layout_constraintEnd_toEndOf="@+id/tv_profile_email"
+        app:layout_constraintStart_toStartOf="@+id/tv_profile_email"
+        app:layout_constraintTop_toBottomOf="@+id/tv_profile_email" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

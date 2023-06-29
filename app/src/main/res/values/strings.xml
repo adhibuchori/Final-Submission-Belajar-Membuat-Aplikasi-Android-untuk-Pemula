@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">AOT Characters</string>
+    <string name="splash">Splash</string>
+    <string name="list_of_attack_on_titan">List of Attack on Titan</string>
+    <string name="characters">Characters</string>
+    <string name="share">Share</string>
+    <string name="character_name">Character Name</string>
+    <string name="character_category">Character Category</string>
+    <string name="character_information">Character Information</string>
+
+    <string name="about_me">About Me Activity</string>
+    <string name="profile_name">Mochammad Adhi Buchori</string>
+    <string name="profile_email">adhi.buchori@gmail.com</string>
+    <string name="contact_me">Contact Me</string>
+    <string name="profile_information">Informatics Student who is highly driven to achieve and learn new skills through practical experience. A highly disciplined, creative, and open-minded person who is interested in Information Technology.</string>
+
+    <string-array name="data_character_name">
+        <item>Eren Yeager</item>
+        <item>Mikasa Ackerman</item>
+        <item>Armin Alert</item>
+        <item>Reiner Braun</item>
+        <item>Jean Kirstein</item>
+        <item>Connie Springer</item>
+        <item>Sasha Blouse</item>
+        <item>Krista Lenz</item>
+        <item>Erwin Smith</item>
+        <item>Hange Zoë</item>
+        <item>Levi Ackerman</item>
+        <item>Zeke Yeager</item>
+        <item>Bertolt Hoover</item>
+        <item>Annie Leonhart</item>
+        <item>Pieck Finger</item>
+    </string-array>
+
+    <string-array name="data_character_category">
+        <item>Main Character</item>
+        <item>Main Character</item>
+        <item>Main Character</item>
+        <item>Main Character</item>
+        <item>104th Training Corps</item>
+        <item>104th Training Corps</item>
+        <item>104th Training Corps</item>
+        <item>104th Training Corps</item>
+        <item>Survey Corps</item>
+        <item>Survey Corps</item>
+        <item>Special Operations Squad</item>
+        <item>Warrior Unit</item>
+        <item>Warrior Unit</item>
+        <item>Warrior Unit</item>
+        <item>Warrior Unit</item>
+    </string-array>
+
+    <string-array name="data_character_image">
+        <item>https://lh3.googleusercontent.com/proxy/R_zqe2neK2ttRmHoh2dw5-EO-4r7h1IXt144gSKEL2KkZO8SwQFxQvHBLocYMDBD2TzB37PYDZvzYsjt-tHAQRqXkT_iB4e-ba7w467gOxQ4DjS4pebuJubNnuwCe07br5mqFlhUpvAA465NctLnNjvmtSFkeyQ79mZVRHnrGd2_156cZplGFkMzsxRJcK8wpyIb2NKteUhAHfo=w1200-h630-p-k-no-nu</item>
+        <item>https://steamuserimages-a.akamaihd.net/ugc/1653347278916999711/CCA2D5DDC84D44ED5513B08A46BD26D2C39F1C87/?imw=512ima=fitimpolicy=Letterboximcolor=%23000000letterbox=false</item>
+        <item>https://i.pinimg.com/736x/6a/94/88/6a94889ef19fe68a28663367c4de876c.jpg</item>
+        <item>https://i.pinimg.com/736x/2f/c5/3c/2fc53c5159ee0e67d89eef0556d52209.jpg</item>
+        <item>https://vignette.wikia.nocookie.net/shingekinokyojin/images/3/38/Jean_Kirschtein_(Anime)_character_image.png/revision/latest?cb=20181009005028</item>
+        <item>https://i.pinimg.com/originals/1a/1d/f1/1a1df194dce5ea2f5983d9f4ef6f3009.png</item>
+        <item>https://i.pinimg.com/originals/76/24/7e/76247e00b7fc48f0a7dae5e01b328dc1.jpg</item>
+        <item>https://i.pinimg.com/originals/47/d3/13/47d313c9bd72ad129aa88ee043111264.jpg</item>
+        <item>https://i.pinimg.com/originals/04/59/a7/0459a7bc2a24175b8cd8b958e4b2ec8f.jpg</item>
+        <item>https://i.pinimg.com/originals/74/5a/f6/745af6bac41d12c1164990562fec940a.jpg</item>
+        <item>https://i.pinimg.com/originals/f0/b8/6c/f0b86c34ada65c02cce81699de5de3e3.png</item>
+        <item>https://i.pinimg.com/originals/76/95/05/769505a9cb279bb8b3394617e876325f.jpg</item>
+        <item>https://64.media.tumblr.com/b763970aef664faed857e1a861abaea8/tumblr_opjrzwFjXv1swot7ko5_1280.png</item>
+        <item>https://i.pinimg.com/originals/42/1c/05/421c0540ced9b23f9ff4f022706427d8.jpg</item>
+        <item>https://i.pinimg.com/474x/c8/76/41/c876414d7f51170803a4edaf180e00c2.jpg</item>
+    </string-array>
+
+    <string-array name="data_character_information">
+        <item>The main hero (or antihero) of the series who, after witnessing his mother being devoured by a Titan while escaping his hometown as a young boy, dedicates his life to their eradication and joins the Survey Corps. After graduating fifth in his cadet class, he is swallowed by a bearded Titan during his first mission in Trost.</item>
+        <item>Mikasa is Eren\'s childhood friend who was taken in by his family after seeing her parents brutally murdered by human traffickers. Though never officially stated to be adopted by the Jaegers within the series, it is shown that she at least felt a strong sense of gratitude toward them as caretakers, as well as Eren, who had saved her life and given her an iconic scarf. Her parents tragic deaths had an overwhelming influence on her, causing her to lose her innocence and realize the world\'s cruelty.</item>
+        <item>Armin is Eren\'s and Mikasa\'s other childhood friend who joins them in order to help humanity and fulfill his dream of seeing the outside world. When Armin was young, his parents tried to venture beyond the Wall by creating a hot air balloon but were found out and killed by the First Interior Squad of the Military Police, leaving Armin to be raised by his grandfather.</item>
+        <item>Reiner is a member of the Marleyan military\'s Warrior Unit and is the holder of the Armored Titan (鎧の巨人, Yoroi no Kyojin). As the leader of the infiltration unit responsible for Marley\'s opening offensive against the Walls on the island of Paradis, he serves as one of the main antagonists for most of the story. Reiner is introduced as a cadet of the 104th Training Corps who graduates 2nd in his class.</item>
+        <item>A hot-headed young man who speaks his mind, he initially planned to join the Military Police in order to live safely within Wall Sheena and manages to graduate within the top ten of his class, ranking sixth. He and Eren have opposing ideals; Jean thinks Eren is suicidal for wanting to join the Survey Corps and fight on the front lines, and throughout the manga has a simmering rivalry with him.</item>
+        <item>A hot-headed young man who speaks his mind, he initially planned to join the Military Police in order to live safely within Wall Sheena and manages to graduate within the top ten of his class, ranking sixth. He and Eren have opposing ideals; Jean thinks Eren is suicidal for wanting to join the Survey Corps and fight on the front lines, and throughout the manga has a simmering rivalry with him.</item>
+        <item>Sasha is a hunter from the mountainous Dauper District. She is tall and lean, and her auburn hair is styled in a ponytail. She is noted as a proficient hunter skilled with a bow and has remarkable hearing and instincts, but she also has issues with structure and authority. She seems obsessed with food and was nicknamed "Potato Girl" (芋女, Imo Onna) for eating one during a military training drill.</item>
+        <item>A petite girl who is described as friendly, warm-hearted, and popular to the point where her peers regard her as a goddess. Her fellow comrade Ymir and even Reiner are both noted to be very fond of her. Her true identity is Historia Reiss (ヒストリア・レイス, Hisutoria Reisu), the illegitimate child of Rod Reiss, the true King of Eldia. She lived on a farm owned by the Reiss family within Wall Rose, during which time she only had minimal interaction with her mother.</item>
+        <item>The 13th Commander of the Survey Corps, who led the last mission before the fall of Wall Maria, having served the government even after they murdered his father as a child believing it was for the good for the people to conceal the truth of Paradis establishment. He also made the difficult choices for the benefit of others, which required him to sacrifice the lives of his men to see it through; he has a reputation for gambling everything on unorthodox battle strategies.</item>
+        <item>Hange is a bespectacled Survey Corps veteran and the leader of 4th Squad. A scientist who studies the Titans, Hange shows little fear when interacting with them, and is thus ecstatic when initially meeting Eren. Hange had a strong hatred against Titans until the discovery of Ilse Langnar\'s notebook, which provided some new insight into the unknown nature of the Titans.</item>
+        <item>He is known as humanity\'s most powerful soldier and head of an elite squad in the Survey Corps. Hange remarks that he is a bit of a "clean freak". While it is said that he is blunt and unapproachable, it is noted that he has a strong respect for authority, structure and discipline. The side story Attack on Titan: No Regrets focuses on Levi\'s origins, revealing that he was part of a band of thieves using the Vertical Maneuvering Equipment to commit crimes before he is scouted by Erwin to join the army.</item>
+        <item>The "warchief" of the Marley\'s Warrior Unit and the holder of the "Beast Titan". In his Titan form, Zeke is a 17-meter (56 ft) tall Bigfoot-like creature with long, thin arms which can be used to launch projectiles at long distances. Due to belonging to the royal Fritz bloodline, his spinal fluid can also be used to turn other Eldians into Titans completely under his control. Additionally, Zeke is a charismatic leader and proficient strategist who can utilize his subordinates capabilities to deadly effect on the battlefield.</item>
+        <item>A reserved member of 104th Training Corps who graduated 3rd in his class and open up around Reiner, Bertolt is described as having potential to master every skill he has been taught if he had the motivation for it. Bertolt is a member of the Warriors and part of Reiner\'s infiltration team to capture the Founding Titan. He is also the holder of the Colossus Titan (超大型巨人, Chō-ōgata Kyojin, alt. "Colossal Titan"), becoming a skinless 60-meter (200 ft) Titan who can release hot steam to protect himself and repel his opponents.</item>
+        <item>An Eldian cadet of the Marleyan Warriors, Annie is introduced as a cadet in the 104th Training Corps, where she graduated ranking 4th in her class. She has short blonde hair and is a small-statured loner who is skilled in melee combat, having been raised by her father to consider the world her enemy.</item>
+        <item>An Eldian cadet of the Marleyan Warrior Unit, Pieck is known for her intelligence and perceptiveness, and is able to transform into the Cart Titan to transport massive amounts of cargo on her back, as she did during the battle against the Survey Corps in Shiganshina, supplying Zeke with barrels and boulders for throwing.</item>
+    </string-array>
+
+</resources>
